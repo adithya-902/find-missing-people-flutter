@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807933314174",
+    "project_id": "laapata-5c186",
+    "storage_bucket": "laapata-5c186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807933314174:android:beda01708eeedaacf6042f",
+        "android_client_info": {
+          "package_name": "com.findmissingperson.find_missing_people"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807933314174-8sjsncntl1harb8nkjsmvpbvqpfbung9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8PthsRxwbDZbd5n6xk5SajrUR676RMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807933314174-8sjsncntl1harb8nkjsmvpbvqpfbung9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

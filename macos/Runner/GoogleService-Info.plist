@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>807933314174-umgu0kg6iu01i14kr9vq86cq2gtce5ti.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807933314174-umgu0kg6iu01i14kr9vq86cq2gtce5ti</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8rYwGPKFxMHGjbrE-DLidWiDd5MK1dAM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807933314174</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.findmissingperson.findMissingPeople.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>laapata-5c186</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laapata-5c186.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807933314174:ios:095b80adeceb38c5f6042f</string>
+</dict>
+</plist>
